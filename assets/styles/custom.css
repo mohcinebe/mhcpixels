@@ -6,3 +6,8 @@
     so you can keep the changes when an update is available.
 
 */
+
+
+.button.primary {
+	border-radius:20px;
+}
