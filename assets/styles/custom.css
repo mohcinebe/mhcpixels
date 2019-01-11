@@ -11,3 +11,11 @@
 .button.primary {
 	border-radius:20px;
 }
+
+.thumb img {
+	border-radius:20px;
+}
+
+.box.shadow {
+	border-radius:20px;
+}
